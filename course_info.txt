@@ -1,0 +1,6 @@
+coursename: ECO  304L INTRODUCTION TO MACROECONOMICS
+datetimearr: [['T', ['11:00', '12:30'], 'JES A121A'], ['TH', ['11:00', '12:30'], 'JES A121A']]
+link: https://utdirect.utexas.edu/apps/registrar/course_schedule/20242/33650/
+profname: Geerling
+status: closed
+unique: 33650
